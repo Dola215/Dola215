@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dola215
+- 👋 Hi, I’m Adel Omer / Dola
 - 👀 I’m interested in Tech, JS/TS PHP
 🌱 I’m currently learning more about Fullstack Web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @adelyasseromer
 - 😄 Pronouns: He
 ⚡ Fun fact: Spaces are better than tabs
